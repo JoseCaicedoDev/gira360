@@ -374,6 +374,29 @@ hr.major {
   text-align: right;
 }
 
+/* Texto Tecleado */
+
+.contenedor {
+  margin: auto;
+  display: table;
+}
+.contenedor p span {
+  position: absolute;
+  right: 0;
+  width: 0;
+  background: #fff;
+  border-left: 1px solid #000;
+  animation: escribir 10s steps(30) infinite alternate;
+}
+@keyframes escribir {
+  from {
+    width: 79%;
+  }
+  to {
+    width: 15%;
+  }
+}
+
 /* Button */
 
 input[type="submit"],
@@ -774,6 +797,9 @@ ul.alt li {
 ul.alt li:first-child {
   border-top: 0;
   padding-top: 0;
+}
+ul.copyright {
+  margin: 0 0 0.5em 0 !important;
 }
 
 dl {
