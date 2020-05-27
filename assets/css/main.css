@@ -394,7 +394,7 @@ button,
   transition: background-color 0.25s ease-in-out, border-color 0.25s ease-in-out,
     color 0.25s ease-in-out;
   background-color: #0396a6;
-  border-radius: 6px;
+  border-radius: 30px;
   border: solid 1px #0396a6;
   color: #fff;
   cursor: pointer;
@@ -411,7 +411,7 @@ input[type="reset"]:hover,
 input[type="button"]:hover,
 button:hover,
 .button:hover {
-  border-color: #00d3b7;
+  border-color: #636363;
   color: #636363;
 }
 
