@@ -386,7 +386,7 @@ hr.major {
   width: 0;
   background: #fff;
   border-left: 1px solid #000;
-  animation: escribir 10s steps(30) infinite alternate;
+  animation: escribir 5s steps(30) infinite alternate;
 }
 @keyframes escribir {
   from {
