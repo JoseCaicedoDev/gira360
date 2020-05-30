@@ -372,6 +372,8 @@ var main = (function ($) {
           $slideImage: null,
           $slideCaption: null,
           url: $thumbnail.attr("href"),
+          type: $thumbnail.attr("type"),
+          type_url: $thumbnail.attr("type_url"),
           loaded: false,
         };
 
@@ -505,12 +507,21 @@ var main = (function ($) {
                 "background-image",
                 "url(" + newSlide.url + ")"
               );
-              newSlide.$slideImage.append(`<iframe
-      src="tour/fotografia_terrestre/index.html"
-      width="100%"
-      height="100%"
-      frameborder="0"
-    ></iframe>`);
+              console.log(newSlide);
+              switch (newSlide.type) {
+                case 'iframe':
+                  newSlide.$slideImage.append(`<iframe
+                    src="${newSlide.type_url}"
+                    width="100%"
+                    height="100%"
+                    frameborder="0"
+                  ></iframe>`);
+                  break;
+              
+                default:
+                  break;
+              }
+              
               // Mark as loaded.
               newSlide.loaded = true;
               newSlide.$slide.removeClass("loading");
