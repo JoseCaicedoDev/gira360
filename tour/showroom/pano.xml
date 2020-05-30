@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.3" apprev="17904" start="node6">
+  <panorama id="node6">
+    <input width="1520" height="1520" levelingpitch="-6" levelbias="0.400" overlap="1" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingroll="0" levelbiashidpi="1.000">
+      <level width="1520" height="1520" preload="0" predecode="0"/>
+      <level width="760" height="760" preload="0" predecode="0"/>
+      <level width="380" height="380" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="88.7731" projection="4" tilt="-2.47062" pan="35.5538"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" fov="120" scaletofit="1" fovfisheye="360" tilt="90" pan="360"/>
+    </view>
+    <userdata latitude="" copyright="" altitude="0" title="IMG_20190810_082121_00_287.insp" author="" customnodeid="" comment="" nodeid="node6" datetime="10/08/2019 1:21 p. m." description="" source="" tags="" heading="0" info="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" textcolor="0x000000" backgroundalpha="1" height="20" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" enabled="1" border="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot title="" description="" skinid="ht_node" url="{node1}" target="28.4/-11.0/100.0" tilt="-22.44" id="Point01" pan="-324.9"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomout="0" softedge="0" zoomoutpause="1" zoomfov="20" zoomspeed="2" zoomin="0" type="crossdissolve" enabled="1" blendtime="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control rubberband="0" contextprojections="0" lockedmouse="0" hideabout="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" speedwheel="1" lockedwheel="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" simulatemass="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node1">
+    <input width="1520" height="1520" levelingpitch="-6" levelbias="0.400" overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingroll="0" levelbiashidpi="1.000">
+      <level width="1520" height="1520" preload="0" predecode="0"/>
+      <level width="760" height="760" preload="0" predecode="0"/>
+      <level width="380" height="380" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="35.55" fovmode="0">
+      <start fov="100" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" fov="120" scaletofit="1" fovfisheye="360" tilt="90" pan="360"/>
+    </view>
+    <userdata latitude="" copyright="" title="IMG_20190810_081229_00_265.insp" author="" customnodeid="" comment="" nodeid="node1" datetime="10/08/2019 1:12 p. m." description="" source="" tags="local" heading="35.55" info="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" textcolor="0x000000" backgroundalpha="1" height="20" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" enabled="1" border="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot title="" description="" skinid="ht_node" url="{node8}" target="-12.2/-9.7/100.0" tilt="-20.29" id="Vestidor" pan="351.18"/>
+      <hotspot title="" description="" skinid="ht_node" url="{node2}" target="28.8/-9.8/100.0" tilt="-29.8" id="Caja" pan="-294.91"/>
+      <hotspot title="" description="" skinid="ht_node" url="{node4}" target="18.4/-8.0/100.0" tilt="-21.06" id="AtrasCaja" pan="-318.4"/>
+      <hotspot title="CAMISETA LA VIDA CON CALMA" description="" skinid="ht_image" url="images/CAMISETA_BOTON5.jpg" target="" tilt="6.9" id="Muñeco03" pan="-241.81"/>
+      <hotspot title="Biónica" description="Biónica es una marca&#xa;de ropa tranquila&#xa;Co-creada por dos amigos y su pasión por mezclar la ilustración con el vestuario, nace a finales de 2007 apoyada por el proyecto para nuevas ideas de negocio Capital Semilla en la ciudad de Medellín.&#xa;" skinid="ht_info" url="https://bionica.co/" target="" tilt="-17.12" id="Nosotros" pan="-293.26"/>
+      <hotspot title="Accesorios" description="hfjgkshfjsgdfkjsdbjfsdfsdfwdwecxwecscsdccec" skinid="ht_url" url="https://bionica.co/categoria/accesorios/" target="" tilt="-13.28" id="Muñeco02" pan="-54.16"/>
+      <hotspot title="CAMISETA LA VIDA CON CALMA" description="" skinid="ht_url" url="https://bionica.co/categoria/mujer/" target="" tilt="-13.22" id="Muñeco01" pan="-35.84"/>
+      <hotspot title="CAMISETA LA VIDA CON CALMA" description="" skinid="ht_image" url="images/CAMISETA_BOTON5.jpg" target="" tilt="-7.63" id="Muñeco03" pan="-253.59"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomout="0" softedge="0" zoomoutpause="1" zoomfov="20" zoomspeed="2" zoomin="0" type="crossdissolve" enabled="1" blendtime="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control rubberband="0" contextprojections="0" lockedmouse="0" hideabout="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" speedwheel="1" lockedwheel="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" simulatemass="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input width="1520" height="1520" levelingpitch="-6" levelbias="0.400" overlap="1" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingroll="0" levelbiashidpi="1.000">
+      <level width="1520" height="1520" preload="0" predecode="0"/>
+      <level width="760" height="760" preload="0" predecode="0"/>
+      <level width="380" height="380" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="100" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" fov="120" scaletofit="1" fovfisheye="360" tilt="90" pan="360"/>
+    </view>
+    <userdata latitude="" copyright="" altitude="0" title="IMG_20190810_081322_00_267.insp" author="" customnodeid="" comment="" nodeid="node2" datetime="10/08/2019 1:13 p. m." description="" source="" tags="local" heading="0" info="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" textcolor="0x000000" backgroundalpha="1" height="20" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" enabled="1" border="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot title="" description="" skinid="ht_node" url="{node1}" target="77.9/-9.5/100.0" tilt="-25.95" id="entrada" pan="-18.48"/>
+      <hotspot title="" description="" skinid="ht_node" url="{node4}" target="" tilt="-30.5" id="atrascaja" pan="-219.37"/>
+      <hotspot title="" description="" skinid="ht_node" url="{node8}" target="" tilt="-19.79" id="vestidor" pan="-286.44"/>
+      <hotspot title="Accesorios" description="hfjgkshfjsgdfkjsdbjfsdfsdfwdwecxwecscsdccec" skinid="ht_url" url="https://bionica.co/categoria/accesorios/" target="" tilt="-9.91" id="Muñeco02" pan="-354.95"/>
+      <hotspot title="CAMISETA LA VIDA CON CALMA" description="" skinid="ht_url" url="https://bionica.co/categoria/mujer/" target="" tilt="-10.02" id="Muñeco01" pan="-348.12"/>
+      <hotspot title="CAMISETA LA VIDA CON CALMA" description="" skinid="ht_image" url="images/CAMISETA_BOTON5.jpg" target="" tilt="1.34" id="Muñeco03" pan="-43.9"/>
+      <hotspot title="Biónica" description="Biónica es una marca&#xa;de ropa tranquila&#xa;Co-creada por dos amigos y su pasión por mezclar la ilustración con el vestuario, nace a finales de 2007 apoyada por el proyecto para nuevas ideas de negocio Capital Semilla en la ciudad de Medellín.&#xa;" skinid="ht_info" url="https://bionica.co/" target="" tilt="-39.78" id="Nosotros" pan="-129.04"/>
+      <hotspot title="Accesorios" description="hfjgkshfjsgdfkjsdbjfsdfsdfwdwecxwecscsdccec" skinid="ht_url" url="https://bionica.co/categoria/accesorios/" target="" tilt="-4.28" id="Muñeco02" pan="-215.41"/>
+      <hotspot title="CAMISETA LA VIDA CON CALMA" description="" skinid="ht_image" url="images/CAMISETA_BOTON5.jpg" target="" tilt="-6.57" id="Muñeco03" pan="-68.13"/>
+      <hotspot title="/hombre" description="" skinid="ht_url" url="https://bionica.co/categoria/hombre/" target="" tilt="-20.71" id="Muñeco02" pan="-322.39"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomout="0" softedge="0" zoomoutpause="1" zoomfov="20" zoomspeed="2" zoomin="0" type="crossdissolve" enabled="1" blendtime="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control rubberband="0" contextprojections="0" lockedmouse="0" hideabout="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" speedwheel="1" lockedwheel="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" simulatemass="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input width="1520" height="1520" levelingpitch="-6" levelbias="0.400" overlap="1" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingroll="0" levelbiashidpi="1.000">
+      <level width="1520" height="1520" preload="0" predecode="0"/>
+      <level width="760" height="760" preload="0" predecode="0"/>
+      <level width="380" height="380" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="100" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" fov="120" scaletofit="1" fovfisheye="360" tilt="90" pan="360"/>
+    </view>
+    <userdata latitude="" copyright="" altitude="0" title="IMG_20190810_081412_00_269.insp" author="" customnodeid="" comment="" nodeid="node4" datetime="10/08/2019 1:14 p. m." description="" source="" tags="local" heading="0" info="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" textcolor="0x000000" backgroundalpha="1" height="20" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" enabled="1" border="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot title="" description="" skinid="ht_node" url="{node1}" target="" tilt="-14.08" id="Point01" pan="-88.65"/>
+      <hotspot title="" description="" skinid="ht_node" url="{node8}" target="" tilt="-21.95" id="Point03" pan="-15"/>
+      <hotspot title="pantalones enteritos" description="" skinid="ht_url" url="https://bionica.co/categoria/mujer/pantalones-enteritos/" target="" tilt="-23.23" id="Muñeco02" pan="-287.07"/>
+      <hotspot title="CAMISETA LA VIDA CON CALMA" description="" skinid="ht_image" url="images/CAMISETA_BOTON5.jpg" target="" tilt="0.6" id="Muñeco03" pan="-120.07"/>
+      <hotspot title="CAMISETA LA VIDA CON CALMA" description="" skinid="ht_image" url="images/CAMISETA_BOTON5.jpg" target="" tilt="6.07" id="Muñeco03" pan="-105.99"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomout="0" softedge="0" zoomoutpause="1" zoomfov="20" zoomspeed="2" zoomin="0" type="crossdissolve" enabled="1" blendtime="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control rubberband="0" contextprojections="0" lockedmouse="0" hideabout="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" speedwheel="1" lockedwheel="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" simulatemass="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node8">
+    <input width="1520" height="1520" levelingpitch="-6" levelbias="0.400" overlap="1" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingroll="0" levelbiashidpi="1.000">
+      <level width="1520" height="1520" preload="0" predecode="0"/>
+      <level width="760" height="760" preload="0" predecode="0"/>
+      <level width="380" height="380" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="100" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" fov="120" scaletofit="1" fovfisheye="360" tilt="90" pan="360"/>
+    </view>
+    <userdata latitude="" copyright="" altitude="1517.1" title="IMG_20190810_081118_00_262.insp" author="" customnodeid="" comment="" nodeid="node8" datetime="10/08/2019 1:11 p. m." description="" source="" tags="local" heading="0" info="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" textcolor="0x000000" backgroundalpha="1" height="20" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" enabled="1" border="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot title="" description="" skinid="ht_node" url="{node7}" target="" tilt="-37.27" id="Point01" pan="-54.27"/>
+      <hotspot title="" description="" skinid="ht_node" url="{node1}" target="" tilt="-14.98" id="Point03" pan="-254.59"/>
+      <hotspot title="" description="" skinid="ht_node" url="{node2}" target="" tilt="-19.43" id="Point04" pan="-292.99"/>
+      <hotspot title="" description="" skinid="ht_node" url="{node4}" target="" tilt="-23.94" id="Point05" pan="-315.53"/>
+      <hotspot title="Últimas unidades" description="" skinid="ht_url" url="https://bionica.co/ultimas-unidades/" target="" tilt="-10.38" id="Muñeco02" pan="-208.51"/>
+      <hotspot title="Moda Hombre" description="hfjgkshfjsgdfkjsdbjfsdfsdfwdwecxwecscsdccec" skinid="ht_url" url="https://bionica.co/categoria/hombre/" target="" tilt="-20.42" id="Muñeco02" pan="-238.41"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomout="0" softedge="0" zoomoutpause="1" zoomfov="20" zoomspeed="2" zoomin="0" type="crossdissolve" enabled="1" blendtime="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control rubberband="0" contextprojections="0" lockedmouse="0" hideabout="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" speedwheel="1" lockedwheel="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" simulatemass="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input width="1520" height="1520" levelingpitch="-6" levelbias="0.400" overlap="1" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingroll="0" levelbiashidpi="1.000">
+      <level width="1520" height="1520" preload="0" predecode="0"/>
+      <level width="760" height="760" preload="0" predecode="0"/>
+      <level width="380" height="380" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="100" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovstereographic="270" fov="120" scaletofit="1" fovfisheye="360" tilt="90" pan="360"/>
+    </view>
+    <userdata latitude="" copyright="" altitude="1517.5" title="IMG_20190810_081026_00_261.insp" author="" customnodeid="" comment="" nodeid="node7" datetime="10/08/2019 1:10 p. m." description="" source="" tags="local" heading="0" info="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" textcolor="0x000000" backgroundalpha="1" height="20" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" enabled="1" border="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot title="" description="" skinid="ht_node" url="{node8}" target="" tilt="-45.76" id="Point01" pan="-344.39"/>
+      <hotspot title="" description="" skinid="ht_node" url="{node1}" target="" tilt="-16.4" id="Point02" pan="-12.29"/>
+      <hotspot title="Últimas unidades" description="hfjgkshfjsgdfkjsdbjfsdfsdfwdwecxwecscsdccec" skinid="ht_url" url="https://bionica.co/ultimas-unidades/" target="" tilt="-6.63" id="Muñeco02" pan="-339.9"/>
+      <hotspot title="Moda Hombre" description="hfjgkshfjsgdfkjsdbjfsdfsdfwdwecxwecscsdccec" skinid="ht_url" url="https://bionica.co/categoria/hombre/" target="" tilt="-19.76" id="Muñeco02" pan="-357.45"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomout="0" softedge="0" zoomoutpause="1" zoomfov="20" zoomspeed="2" zoomin="0" type="crossdissolve" enabled="1" blendtime="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control rubberband="0" contextprojections="0" lockedmouse="0" hideabout="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" speedwheel="1" lockedwheel="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" simulatemass="1" contextfullscreen="1"/>
+  </panorama>
+  <masternode>
+    <userdata latitude="" copyright="" title="" author="" customnodeid="" comment="" nodeid="master" datetime="" description="" source="" tags="" heading="0" info="" longitude=""/>
+  </masternode>
+</tour>
